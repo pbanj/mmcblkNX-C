@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name RTS5170)(type Legacy)(uri ${KIPRJMOD}/RTS5170.lib)(options "")(descr ""))
-)
