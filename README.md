@@ -6,9 +6,9 @@ These are the drivers I found worked on windows https://download.lenovo.com/cons
 
 # About
 I love adding USB-C to things. Figured I would do that here before I ordered them.  
-I may eventually sell these on my site.  
+[I sell these on my site.](https://shop.pbanjin.space/product/emmcc/)    
 Just a hardware mod of https://github.com/ignasurba/mmcblkNX. 
-It should work out of the box on modern linux, live, vm, install.  
+It should work out of the box on modern linux, live, vm, or install.  
 If using virtualbox you need to change the usb controller to usb 3.  
 <img width="243" height="137" alt="image" src="https://github.com/user-attachments/assets/7f5c9435-e7ac-4db3-896f-4f72ff252dcb" />
 
