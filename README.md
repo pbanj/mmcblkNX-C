@@ -1,18 +1,16 @@
 # mmcblkNX-C
+I love adding USB-C to things. Was trying to find one that was affordable but couldnt. So I Figured I'd change the orig to USB-C and have them made.  
+You can cut the trace between the 3v hole and the center hole and then bridge the center to the 1.8v side if you need it. I didnt goe with a switch as it would have increased the cost for no real reason.  
 USB-C Hardware eMMC reader capable of reading *Nintendo Switch* raw partitions including **boot0**, **boot1** with rtsx Linux driver.  
 On windows you can use https://github.com/eliboa/NxNandManager if you dont need boot0/1.  
 These are the drivers I found worked on windows https://download.lenovo.com/consumer/mobiles/cr115w8.exe  
-
-
-# About
-I love adding USB-C to things. Figured I would do that here before I ordered them.  
-[I sell these on my site.](https://shop.pbanjin.space/product/emmcc/)    
-Just a hardware mod of https://github.com/ignasurba/mmcblkNX. 
+Boot0 and Boot1 cant be dumped by themselves on windows, this is because windows is stupid.  
+It's Just a hardware mod of https://github.com/ignasurba/mmcblkNX.  
 It should work out of the box on modern linux, live, vm, or install.  
 If using virtualbox you need to change the usb controller to usb 3.  
 <img width="243" height="137" alt="image" src="https://github.com/user-attachments/assets/7f5c9435-e7ac-4db3-896f-4f72ff252dcb" />
 
-
+# [I sell these on my site.](https://shop.pbanjin.space/product/emmcc/) for $30 with free shipping in the US. If youre outside the US I can still ship it to you, I just have to figure out the shipping cost before you purchase.   
 
 ## Usage
 ```
